@@ -2,7 +2,7 @@
 
 This repository contains training and evaluation scripts for the VC2L framework, supporting three tasks: AnyCIR, SeqCIR, and CSR. The implementation builds upon the [OpenCLIP](https://github.com/mlfoundations/open_clip) project.
 
-![method](https://github.com/user-attachments/assets/b2f78c90-3506-481b-91b6-cd5d743eace8)
+![method](https://github.com/user-attachments/assets/c71a90d0-e91f-439a-814d-7c6e4721daf0)
 
 ---
 ## Repository Structure
